@@ -1,0 +1,36 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+db.sqlite3
+media/
+staticfiles/
+
+# Virtual environments
+.env/
+venv/
+.venv/
+env/
+.burat/
+burat/
+.envrc
+
+# Django secret key
+.env
+
+# IDE and editor files
+.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Coverage reports
+.coverage
+.hypothesis/
